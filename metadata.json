@@ -1,0 +1,6 @@
+{
+  "name": "Boys vs The Seven",
+  "description": "A tactical strategy and battle game where players lead either The Boys or The Seven to fight for public control, compound V, and survival.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
